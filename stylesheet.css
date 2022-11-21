@@ -1,0 +1,67 @@
+#title {
+    font-family: 'Xanh Mono', monospace;
+    margin: 0;
+    display: inline-block;
+    
+
+}
+#top {
+    background-color: black;
+    color: white;
+    /* text-align: center; */
+    margin: 0;
+    padding: 30px;
+    box-shadow: 5px 10px #888888;
+
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #faf0e6;
+    /* text-align: center; */
+}
+html {
+    margin: 0;
+    padding: 0;
+}
+.imageheader {
+    text-align: center;
+    
+}
+img {
+    height: auto;
+    width: 70vw;
+    margin: 20px;
+}
+.quote {
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size:x-large;
+}
+
+#container {
+    width: 70vw;
+    margin: auto;
+    text-align: center;
+}
+li {
+    float: right;
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar {
+    /* display: inline-block; */
+    float: right;
+    font-family: 'Xanh Mono', monospace;
+    font-size: large;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    text-decoration: underline;
+}
